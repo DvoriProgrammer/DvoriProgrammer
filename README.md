@@ -3,7 +3,7 @@ Welcome to my GitHub space! 🚀
 
 ### 💻 I'm a Full-Stack Software Engineer
 
-📞 **Phone:** 055-6771566  
+
 📧 **Email:** Dvori456@gmail.com
 
 ### 💪 Skills and Expertise
@@ -28,7 +28,7 @@ I possess strong logical thinking, a highly developed self-learning ability, and
 
 ### 🚀 Experience
 
-I mentored first-year students for their project, primarily focusing on JavaScript, HTML, and CSS.
+I mentored first-year students for their project, primarily focusing on JavaScript, HTML and CSS.
 
 ### 📚 Education
 
