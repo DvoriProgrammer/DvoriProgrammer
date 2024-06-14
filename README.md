@@ -32,7 +32,8 @@ I mentored first-year students for their project, primarily focusing on JavaScri
 
 ### 📚 Education
 
-**2022-2024:** Professional studies for a software engineering degree approved by the Ministry of Labor, Welfare, and Social Services. Also obtained a computer teaching certificate from the Ministry of Education.
+**2022-2024:** Professional studies for a software engineering degree approved by the Ministry of Labor, Welfare, and Social Services an average of 98.
+ Also obtained a computer teaching certificate from the Ministry of Education.
 
 **2019-2022:** High school matriculation certificate with an average of 97.
 
