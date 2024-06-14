@@ -2,14 +2,16 @@
 
 Welcome to my GitHub space! 🚀
 
-#💻I'm Full-Stack Software Engineer
+💻I'm Full-Stack Software Engineer
+
 
 📞 Phone:0556771566
 📧 Email: Dvori456@gmail.com
 
 
 
-##💪Skills and Expertise
+💪Skills and Expertise
+
 Languages: Python, Java, C#, JavaScript, HTML, CSS, SCSS, TypeScript,C,C++
 Frameworks: Node.js, Angular17, React, .NET CORE, Entity Framework, ASP.NET
 Databases: SQL Server, MongoDB, MySQL
@@ -19,13 +21,15 @@ Hardware: Assembly, Embedded, Mips, Real-Time
 Courses:Data Structures, Computer Structure, computer and network communication,Statistics, Linear and Boolean Algebra, Digital Systems, Algorithms,Introduction to AI, computer organization. 
 
 
-##🌟 About Me
+🌟 About Me
+
 I possess strong logical thinking, a highly developed self-learning ability, and robust internet research skills. 
 I excel at tackling challenges with confidence and competence, both in terms of security and capability.
 I am capable of efficiently managing a team and have a genuine passion for continuous learning and advancement.
 
 
-##🚀  Experience
+🚀  Experience
+
 I mentored first-year students for their project, primarily focusing on JavaScript,Html,Css.
 
 
