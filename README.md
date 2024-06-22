@@ -10,7 +10,7 @@ Welcome to my GitHub space! 🚀
 
 **Languages:** Python, Java, C#, JavaScript, HTML, CSS, SCSS, TypeScript, C, C++.
 
-**Frameworks:** Node.js, Angular 17, React, .NET CORE, Entity Framework, ASP.NET.
+**Frameworks:** Node.js, Angular 17, React, .NET CORE, Entity Framework.
 
 **Databases:** SQL Server, MongoDB, MySQL.
 
