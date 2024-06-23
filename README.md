@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Dvora Kolp
 Welcome to my GitHub space! 🚀
 
-### 💻 I'm a Full-Stack Software Engineer
+### 💻 I'm a  Software Engineer
 
 
 📧 **Email:** Dvori456@gmail.com
